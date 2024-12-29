@@ -1,5 +1,5 @@
 Step 1: Download the file.
-Download and open the Microsoft Excel workbook Reseller Information. The workbook contains only one worksheet called Data_Exercise_File.
+Download and open the Microsoft Excel workbook Data_Exercise_File. The workbook contains only one worksheet called Data_Exercise_File.
 
 Step 2: Create the Calculations.
 The content in column B contains spaces before and after the entries. Create a TRIM function formula in C2 that uses B2 as an argument and removes unnecessary spaces. 
